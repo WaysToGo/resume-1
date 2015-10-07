@@ -10,7 +10,7 @@
 
     * Design interface for web/mobile app (HTML/CSS(SASS)/JS(jQuery))
     * Develop web application with WordPress/RoR (WordPress/Roby on Rails)
-    * Develop mobille application integrate with S3 and Parse (Swift/Amazon Web Service/Parse)
+    * Develop mobille application integrated with S3 and Parse (Swift/Amazon Web Service/Parse)
     * Research user experience, user journey and wrote UX/UI articles
     * Sale and negotiation
 
@@ -80,7 +80,7 @@
 
 * 19/02/1991
 * Single son
-* Buddish and Thai nationality
+* Buddhism and Thai nationality
 * Exempted
 * Chaengwattana, Pak kred
 
