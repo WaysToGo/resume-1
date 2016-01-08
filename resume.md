@@ -1,6 +1,6 @@
 # Jirayu Limjinda
 
-**Phone:** 080-000-3113 <br/> **E-mail:** Jir4yu.L@gmail.com <br/> **Website:** http://www.jir4yu.me <br/> **Skype, Facebook, Twitter, Instagram:** Jir4yu
+**Phone:** 080-000-3113 <br/> **E-mail:** Jir4yu.L@gmail.com <br/> **Website:** https://www.jir4yu.me <br/> **My Playground:** https://www.facebook.com/byJir4yu/ <br/> **Skype, Facebook, Twitter, Instagram:** Jir4yu
 
 ## Work Experience
 
