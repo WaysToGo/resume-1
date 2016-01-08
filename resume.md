@@ -60,7 +60,7 @@
 * **Mobile app development** - Swift, ionic hybrid application
 * **User Interface and User Experience** - Sketch, Photoshop, Wireframe, Mockup, Prototype
 * **Basic server and cloud services** - Unix, NginX, DigitalOcean, Amazon Web Service
-* **Database** - MySQL, MongoDB, PostgreSQL, Redis
+* **Database** - MySQL, MongoDB, PostgreSQL
 * **Measurement** - hotJar, Mixpanel, Analytics, Google Tag Manager, PageSpeed
 * **WordPress** Theme and Plugin development
 * Video Animation with Premier Pro
