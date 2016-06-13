@@ -6,7 +6,7 @@
 
 * **JindaTheme (04/2014 - Present)**
 
-    *Product Leader and Co-Founder*
+    *Product Lead and Co-Founder*
 
     * Design interface for web/mobile app (HTML/CSS(SASS)/JS(jQuery))
     * Develop web application with WordPress/RoR (WordPress/Roby on Rails)
