@@ -15,7 +15,7 @@
     * Sale and negotiation
 
 
-* **Parking Duck (09/2014 - Present)**
+* **Parking Duck (09/2014 - 06/2015)**
 
   *CPO and Co-Founder*
 
