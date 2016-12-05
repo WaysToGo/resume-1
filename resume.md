@@ -56,12 +56,12 @@
 ## Skills
 
 * **User Experience** - Brand Identity, User Journey, Service Blueprint, Userflow, Focus Group, A/B Test, InvisionApp, MarvelApp
-* **Responsive web development** - HTML, Handlebars, CSS, SASS/LESS, jQuery, CoffeeScript, MeteorJS, AngularJS/ReactJS, Twitter Bootstrap, Foundation, UIKit, Material Design, BaseCSS, GreenSockJS, PHP, Ruby on Rails, Golang
-* **Mobile app development** - Swift, ionic hybrid application
+* **Responsive web development** - HTML, Handlebars, CSS, SASS/LESS, jQuery, CoffeeScript, MeteorJS, React/Redux, Twitter Bootstrap, Foundation, UIKit, Material Design, BaseCSS, GreenSockJS, PHP, Ruby on Rails, Golang(beginner)
+* **Mobile app development** - React-native, Swift(beginner)
 * **User Interface and User Experience** - Sketch, Photoshop, Wireframe, Mockup, Prototype
 * **Basic server and cloud services** - Unix, NginX, DigitalOcean, Amazon Web Service
 * **Database** - MySQL, MongoDB, PostgreSQL
-* **Measurement** - hotJar, Mixpanel, Analytics, Google Tag Manager, PageSpeed
+* **Measurement** - hotJar, Analytics, Google Tag Manager, PageSpeed
 * **WordPress** Theme and Plugin development
 * Video Animation with Premier Pro
 * **Collaboration tools** - Trello, Git, Wunderlist, TeamWeek
