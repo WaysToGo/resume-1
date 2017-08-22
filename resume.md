@@ -43,7 +43,7 @@
 
 ## Education 👨‍🎓
 
-* **Nida (2016-Present)**
+* **Nida (2017-Present)**
 
   Master of Business Administration
 
