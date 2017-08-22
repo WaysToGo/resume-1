@@ -1,21 +1,21 @@
 # Jirayu Limjinda
 
-**Phone:** 080-000-3113 <br/> **E-mail:** Jir4yu.L@gmail.com <br/> **Website:** https://www.jir4yu.me <br/> **My Playground:** https://www.facebook.com/byJir4yu/ <br/> **Skype, Facebook, Twitter, Instagram:** Jir4yu
+**E-mail:** pop@jindatheme.com <br/> **Website:** https://www.jir4yu.me <br/> **Playground:** https://www.facebook.com/jir4yu.me <br/> **Skype, Facebook, Twitter, Instagram:** Jir4yu
 
-## Work Experience
+## Work Experience 👨🏻‍💻
 
-* **JindaTheme (04/2014 - Present)**
+* **JindaTheme (04/2015 - Present)**
 
     *Product Lead and Co-Founder*
 
-    * Design interface for web/mobile app (HTML/CSS(SASS)/JS(jQuery))
-    * Develop web application with WordPress/RoR (WordPress/Roby on Rails)
-    * Develop mobille application integrated with S3 and Parse (Swift/Amazon Web Service/Parse)
+    * Design user interface for web/mobile app
+    * Develop web application with WordPress/RoR
+    * Develop mobile application integrated with S3 and Parse
     * Research user experience, user journey and wrote UX/UI articles
     * Sale and negotiation
 
 
-* **Parking Duck (09/2014 - Present)**
+* **Parking Duck (09/2014 - 01/2016)**
 
   *CPO and Co-Founder*
 
@@ -41,34 +41,36 @@
   * Slice PSD to Website
   * Animation with GreenSockJS
 
-## Education
+## Education 👨‍🎓
 
-* **Bangkok University, Thailand (2009-2012)**
+* **Nida (2016-Present)**
+
+  Master of Business Administration
+
+* **Bangkok University (2009-2012)**
 
   Bachelor of Science (BS), Computer Science
   * Award winning senior project by School of science and technology, 2013
-  * C# and .Net desktop application
-
 
 * **Saint Francis Xavier School (2003-2009)**
 * **Pichaya Suksa School (1998-2003)**
 
-## Skills
+## Skills 👾
 
-* **User Experience** - Brand Identity, User Journey, Service Blueprint, Userflow, Focus Group, A/B Test, InvisionApp, MarvelApp
-* **Responsive web development** - HTML, Handlebars, CSS, SASS/LESS, jQuery, CoffeeScript, MeteorJS, AngularJS/ReactJS, Twitter Bootstrap, Foundation, UIKit, Material Design, BaseCSS, GreenSockJS, PHP, Ruby on Rails, Golang
-* **Mobile app development** - Swift, ionic hybrid application
-* **User Interface and User Experience** - Sketch, Photoshop, Wireframe, Mockup, Prototype
-* **Basic server and cloud services** - Unix, NginX, DigitalOcean, Amazon Web Service
-* **Database** - MySQL, MongoDB, PostgreSQL
-* **Measurement** - hotJar, Mixpanel, Analytics, Google Tag Manager, PageSpeed
+* **User experience** - Brand Identity, User Journey, Service Blueprint, Userflow, Focus Group, A/B Testing, InvisionApp, MarvelApp
+* **Web development** - HTML, Handlebars, CSS, SASS/LESS, jQuery, Gulp, Grunt, MeteorJS, AngularJS/ReactJS, Twitter Bootstrap, Foundation, UIKit, Material Design, BaseCSS, SemanticUI, GreenSockJS, PHP, Ruby on Rails, Golang(beginner)
+* **Mobile development** - React-Native, Swift(beginner)
+* **Cloud & Infrastructure** - Amazon AWS, DigitalOcean, Unix(prefer ubuntu), NginX, Apache
+* **Database** - MySQL, PostgreSQL, MongoDB(beginner)
+* **Testing automation** - Capybara, Jasmine
+* **User interface and User experience** - Sketch, Photoshop, Wireframe, Mockup, Prototype
 * **WordPress** Theme and Plugin development
-* Video Animation with Premier Pro
-* **Collaboration tools** - Trello, Git, Wunderlist, TeamWeek
+* **Optimization** - hotJar, G-Analytics, G-Tag Manager, G-PageSpeed, Critical CSS, Async & Defer, Cloudflare
+* **Collaboration** - Jira, Trello, Git, Wunderlist, TeamWeek
 * **SEO** - Onpage, Offpage
-* Startup
-* Docker
-* Alcohol and Caffeine
+* Docker(basic)
+* Startup([Parking Duck](https://www.techinasia.com/parking-ducks-wins-tech-in-asia-tour-bangkok))
+* Alcohol and Caffeine ☕️🍺
 
 ## Interests
 
@@ -76,7 +78,7 @@
 * Film photography
 * Gadgets
 * Apple
-* Manchester United
+* Manchester United 👹
 
 ## Personal Details
 
